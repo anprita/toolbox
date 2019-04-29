@@ -38,17 +38,17 @@ The tools are grouped into the following:
 
 * Download the toolbox
   * Put the toolbox in *root* folder
-  * Create new folder *example_data/output* and example_data/temp
+  * Make sure under *root* folderm there are *example_data/output* and *example_data/temp*
 
 * Running the toolbox
   * You can run these scripts in standalone mode, through PyCharm project or as an ArcGIS Toolbox with a GUI (add to ArcToolBox, and navigate to your required tool).
   * It's a sequential process, so you need to start from the first menu (watershed toolbox)
-  ** Menu 1: Watershed toolbox
-[Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu01_flow.png)
-  ** Menu 2: Water quality toolbox
-[Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu02_flow.png)
-  ** Menu 3: Elevation toolbox
-[Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu03_flow.png)
+    * Menu 1: Watershed toolbox
+    ![Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu01_flow.png)
+    * Menu 2: Water quality toolbox
+    ![Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu02_flow.png)
+    * Menu 3: Elevation toolbox
+    ![Image of Toolbox 1](https://github.com/anprita/images/blob/master/menu03_flow.png)
  
  #### Detail Methodology of the toolbox
 
