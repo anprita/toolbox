@@ -1,1 +1,1 @@
-Download example_data/output : https://bit.ly/2vsK8w2
+Download example_data/output : https://bit.ly/2vsK8w2 or just execute the toolbox after downloading the example_data/input
